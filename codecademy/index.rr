@@ -1,0 +1,2 @@
+string.include? parameter # returns boolean
+string.gsub!(/s/, "th") # returns string 
